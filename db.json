@@ -1,0 +1,24 @@
+{
+    "players": [
+      {
+        "id": 1,
+        "username": "Player1",
+        "contact": "Contact1",
+        "gameMode": "Duos"
+      },
+      {
+        "id": 2,
+        "username": "Player2",
+        "contact": "Contact2",
+        "gameMode": "Trios"
+      },
+      {
+        "id": 3,
+        "username": "Player3",
+        "contact": "Contact3",
+        "gameMode": "Squads"
+      }
+      
+    ]
+  }
+  
